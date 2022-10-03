@@ -29,4 +29,4 @@ What percentage of the population has received at least one COVID vaccine?
 
  
 
-The data was also prepared for visualizations using Tableau. 
+The data was also prepared for visualizations using Tableau.  [Visaulization] (https://public.tableau.com/app/profile/anastasia.fraser/viz/CovidDashboarduptoApril2022/Dashboard1)
